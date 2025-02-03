@@ -1,0 +1,13 @@
+.allForOne{
+ padding:5px;
+ border-bottom: 2px solid grey;
+}
+.arrow1{
+ display: inline-block;
+ font-size: 20px;
+}
+.activity1{
+  display: inline-block;
+  margin-left:180px;
+  font-weight: bold;
+}

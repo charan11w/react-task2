@@ -1,0 +1,49 @@
+.shiva{
+  width:48px;
+  height:48px;
+  border-radius: 40px;
+}
+.first-half{
+  display:flex;
+  align-items: center;
+  gap: 15px;
+  padding:10px;
+  padding-bottom: 2px;
+}
+.name{
+  font-weight: bold;
+}
+.manage{
+  color:rgb(8, 100, 206);
+  font-size: 14px;
+  font-weight: bold;
+}
+.second-half{
+  display:flex;
+  align-items: center;
+  gap:15px;
+  padding:10px;
+ 
+}
+.posts,.comments{
+  background-color: green;
+  border: none;
+  padding:6px 14px;
+  color:white;
+  font-weight: bold;
+  border-radius: 40px;
+}
+.followers{
+  color: grey;
+  font-size: 14px;
+  margin-right:15px;
+}
+
+.comments{
+  background-color: white;
+  color:grey;
+  border: 1px solid grey;
+}
+.second{
+  border-bottom: 8px solid rgb(208, 197, 183);
+}

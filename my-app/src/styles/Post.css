@@ -1,0 +1,112 @@
+.post-details{
+  padding:15px;
+  border-bottom: 8px solid rgb(215, 200, 182);
+}
+.profile-details{
+  display: flex;
+  gap:15px;
+  margin-top:5px;
+}
+.you{
+  font-size: 12px;
+  color:grey;
+  margin-left:8px;
+}
+.role{
+  font-size: 13px;
+  color: gray;
+  font-weight: bold;
+}
+.times{
+  color: grey;
+  font-size: 12px;
+  font-weight: bold;
+}
+.message{
+  margin-top:12px;
+  font-size:17px;
+  line-height: 1;
+}
+.more{
+  display: flex;
+  justify-content: flex-end;
+  padding-right:8px;
+  color:gray;
+}
+.r-images{
+  flex:1;
+}
+.r-i{
+  width:20px;
+  height:20px;
+}
+.r-i-n{
+  width:20px;
+  height:20px;
+  margin-left:-5px;
+  border-radius: 30px;
+}
+.r{
+  display: flex;
+  align-items: center;
+}
+.like-count{
+  padding-top:5px;
+  padding-left:3px;
+  color: gray;
+}
+.reactions{
+  display:flex;
+  align-items: center;
+  border-bottom: 2px solid gray;
+  padding-bottom: 13px;
+}
+.reposts{
+  padding-top:3px;
+  justify-content: flex-end;
+  padding-right:4px;
+  color: gray;
+}
+.shiva-small{
+  width:30px;
+  height:30px;
+  border-radius: 30px;
+}
+.send{
+  padding-top:10px;
+  display: flex;
+  align-items: center;
+}
+.likeg{
+  width:20px;
+}
+.logo-name{
+  font-size:13px;
+  font-weight: bold;
+  color: gray;
+}
+.like-logo{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding-left:50px;
+}
+.final{
+  display: flex;
+  align-items: center;
+  padding-top:10px;
+}
+.stats-logo{
+  width:40px;
+}
+.count-i{
+  font-weight: bold;
+  flex:1px;
+}
+.ken{
+  justify-content: flex-end;
+  padding-right: 5px;
+  font-weight: bold;
+  color:rgb(20, 102, 234);
+}

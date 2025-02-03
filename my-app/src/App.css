@@ -1,0 +1,11 @@
+body{
+  background-color: rgb(53, 53, 53);
+  font-family: arial;
+}
+.main-content{
+  background-color: white;
+  margin-left:auto;
+  margin-right: auto;
+  width:500px;
+
+}
