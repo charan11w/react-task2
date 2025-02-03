@@ -14,7 +14,7 @@ const details = [{
   likes: 70,
   comments: 10,
   reposts: 1,
-  impreession:'2,344 impressions '
+  impression:'2,344 impressions '
 },
 {
   about: 'Frontend Engineer specializing in MERN/MEAN Stack |...',
